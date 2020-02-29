@@ -1,2 +1,3 @@
 fetch is git command
 pull is equal to git fetch plus merge
+pull is not similar to fetch
