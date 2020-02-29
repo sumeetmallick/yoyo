@@ -1,2 +1,2 @@
 fetch is git command
-
+pull is equal to git fetch plus merge
